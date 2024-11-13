@@ -2,12 +2,22 @@
 
 ![Header](./github-header-image.png)
 
+###
+
+<div align="center">
+  <h1>Hi there, Welcome to my Github Profile! 👋</h1>
+  <p align="center">
+    I'm a Software Engineer, passionate about technology and innovation. I love to learn new things and share my knowledge with others. I'm always looking for new challenges and opportunities to grow as a professional.
+</div>
+
+
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gemu03&theme=algolia&show_icons=true&hide_border=true&count_private=true"  height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemu03&theme=algolia&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gemu03&theme=algolia&show_icons=true&hide_border=true&count_private=true"  width="40%" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemu03&theme=algolia&hide_border=true" width="42.4%" alt="streak graph"  />
 </div>
 
 ###
@@ -73,6 +83,8 @@
   <a href="https://www.linkedin.com/in/gemu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/u/Gio003/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   <a href="discordapp.com/users/.crayzy10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
