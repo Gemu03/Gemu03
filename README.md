@@ -12,12 +12,18 @@
 
 
 
-
 ###
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Gemu03&theme=algolia&show_icons=true&hide_border=true&count_private=true"  width="40%" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemu03&theme=algolia&hide_border=true" width="42.4%" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-nine-pearl.vercel.app?user=Gemu03&theme=algolia&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" width="42.4%" alt="streak graph"  />
+  
+  <!-- 
+  <img src="https://github-readme-stats-git-master-gemu03s-projects.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="40%" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats-nine-pearl.vercel.app?user=Gemu03&theme=algolia&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" width="42.4%" alt="streak graph"  />
+  -->
+
 </div>
 
 ###
