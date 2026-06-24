@@ -36,23 +36,26 @@ backend architectures.
 
 <div align="center">
 
+<a href="https://github.com/Gemu03/eventflow-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=eventflow-api&theme=algolia&hide_border=true" alt="eventflow-api" />
+</a>
+<a href="https://github.com/Gemu03/neobank-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=neobank-dashboard&theme=algolia&hide_border=true" alt="neobank-dashboard" />
+</a>
+<a href="https://github.com/Gemu03/spark-dating-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=spark-dating-app&theme=algolia&hide_border=true" alt="spark-dating-app" />
+</a>
+<a href="https://github.com/Gemu03/BlogGioV1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=BlogGioV1&theme=algolia&hide_border=true" alt="BlogGioV1" />
+</a>
 <a href="https://github.com/Gemu03/INC_LLM">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=INC_LLM&theme=algolia&hide_border=true" alt="INC_LLM" />
 </a>
 <a href="https://github.com/Gemu03/connect4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=connect4&theme=algolia&hide_border=true" alt="connect4" />
 </a>
-<a href="https://github.com/Gemu03/FinalML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=FinalML&theme=algolia&hide_border=true" alt="FinalML" />
-</a>
-<a href="https://github.com/Gemu03/Reflex-ImageGen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=Reflex-ImageGen&theme=algolia&hide_border=true" alt="Reflex-ImageGen" />
-</a>
-<a href="https://github.com/Gemu03/Node-Chatbot-OpenAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=Node-Chatbot-OpenAI&theme=algolia&hide_border=true" alt="Node-Chatbot-OpenAI" />
-</a>
-<a href="https://github.com/Gemu03/IA_Content_Generation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=IA_Content_Generation&theme=algolia&hide_border=true" alt="IA_Content_Generation" />
+<a href="https://github.com/Gemu03/markdown-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=markdown-notes&theme=algolia&hide_border=true" alt="markdown-notes" />
 </a>
 
 </div>
