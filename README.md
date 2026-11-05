@@ -1,137 +1,63 @@
-<!-- ====================================================================== -->
-<!-- Giovanni Moreno — GitHub Profile README                                -->
-<!-- Software Engineer @ IBM | AI/ML & Full-Stack Web Developer | Bogotá, CO -->
-<!-- ====================================================================== -->
+<h1 align="center">Hi, I'm Giovanni Moreno 👋</h1>
+<h3 align="center">Cloud & Applied AI Engineer | Solutions Architect (Azure Expert AZ-305 · AWS SAA-C03)</h3>
 
-<br clear="both">
+<p align="center">
+  <a href="https://giovanni-moreno.com"><img src="https://img.shields.io/badge/Portfolio-giovanni--moreno.com-3125C4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/giovanni--moreno"><img src="https://img.shields.io/badge/LinkedIn-giovanni--moreno-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ingestebanmu@gmail.com"><img src="https://img.shields.io/badge/Email-ingestebanmu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://blog.giovanni-moreno.com"><img src="https://img.shields.io/badge/Blog-Tech_Articles-F97316?style=flat-square&logo=astro&logoColor=white" /></a>
+</p>
 
-![Header](./github-header-image.png)
+---
 
-###
+### 👨‍💻 About Me
 
-<div align="center">
-  <h1>Hi, I'm Giovanni Moreno 👋</h1>
-  <h3>Software Engineer @ IBM · AI/ML & Full-Stack Web Developer · Bogotá, Colombia</h3>
-</div>
+I am a **Software Engineer at IBM** specializing in the intersection of **Cloud Architecture**, **Distributed Backend Systems**, and **Applied AI / LLMOps**. Certified as an **Azure Solutions Architect Expert (AZ-305)** and **AWS Solutions Architect Associate (SAA-C03)**, I focus on building highly available, cost-effective infrastructure that runs production-grade machine learning and agentic workflows.
 
-###
+- 🔭 **Currently at IBM:** Architecting enterprise incident triage systems with multi-model LLMs (AWS Bedrock, Watsonx), Model Context Protocol (MCP), and managing 12 distributed microservices across AWS and Kubernetes.
+- ☁️ **Cloud & FinOps Track Record:** Slashed enterprise infrastructure costs by **84% ($72,000/year)** via serverless migrations on AWS (Lambda, S3) and reduced operational IT support costs by **30% ($45,000/year)** with autonomous AI agents.
+- ⚡ **Engineering Philosophy:** Clean architecture, strict type validation (Pydantic, TypeScript), resilient concurrency handling, and Infrastructure as Code (IaC).
 
-## About Me
+---
 
-I'm a Software Engineer at **IBM**, based in Bogotá, Colombia. I build
-**AI/ML-powered applications** and **full-stack web products**, with a strong
-interest in large language models (LLMs), generative AI, and clean, scalable
-backend architectures.
+### 🏆 Official Certifications
 
-- 🔭 Currently working at **IBM** on enterprise software and AI solutions.
-- 🌱 Deepening my expertise in **machine learning, LLMs, and cloud-native development**.
-- ⚡ I enjoy turning ideas into shipped products — from data and models to polished UIs.
-- 🌐 Portfolio: **[giovanni-moreno.com](https://giovanni-moreno.com)**
-- ✍️ Blog: **[blog.giovanni-moreno.com](https://blog.giovanni-moreno.com)**
-- 📫 Reach me at **ingestebanmu@gmail.com**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-Solutions_Architect_Expert_(AZ--305)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate_(SAA--C03)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-Administrator_Associate_(AZ--104)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
 
-###
+---
 
-## 🚀 Featured Projects
+### 🛠️ Technical Stack & Tooling
+Cloud & DevOps :: AWS (Lambda, ECS, S3, Glue, Bedrock, ASG, ALB), Azure, GCP, CloudFormation, Kubernetes, Docker, CI/CD Applied AI & LLMs :: Model Context Protocol (MCP), LLM Guardrails, Pydantic, RAG, LangChain, Vector DBs, Watsonx.ai Languages :: Python, TypeScript, JavaScript, SQL Frameworks & Libs :: FastAPI, NestJS, Node.js, Express, React, PySpark, Dask Databases & Storage :: PostgreSQL, Redis, MongoDB, SQLite, DuckDB, Vector Databases (pgvector, Pinecone)
 
-<div align="center">
 
-<a href="https://github.com/Gemu03/eventflow-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=eventflow-api&theme=algolia&hide_border=true" alt="eventflow-api" />
-</a>
-<a href="https://github.com/Gemu03/neobank-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=neobank-dashboard&theme=algolia&hide_border=true" alt="neobank-dashboard" />
-</a>
-<a href="https://github.com/Gemu03/spark-dating-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=spark-dating-app&theme=algolia&hide_border=true" alt="spark-dating-app" />
-</a>
-<a href="https://github.com/Gemu03/BlogGioV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=BlogGioV1&theme=algolia&hide_border=true" alt="BlogGioV1" />
-</a>
-<a href="https://github.com/Gemu03/INC_LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=INC_LLM&theme=algolia&hide_border=true" alt="INC_LLM" />
-</a>
-<a href="https://github.com/Gemu03/connect4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=connect4&theme=algolia&hide_border=true" alt="connect4" />
-</a>
-<a href="https://github.com/Gemu03/markdown-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemu03&repo=markdown-notes&theme=algolia&hide_border=true" alt="markdown-notes" />
-</a>
+---
 
-</div>
+### 🚀 Flagship Projects
 
-###
+| Project | Core Stack | Key Impact / Architecture |
+| :--- | :--- | :--- |
+| **[EventFlow API](https://github.com/Gemu03/eventflow-api)** | `NestJS` `PostgreSQL` `Redis` `Cloud Run` | Production-grade ticketing REST API featuring oversell-safe transactional concurrency, JWT/RBAC auth, distributed rate limiting, and automated CI/CD. |
+| **Clinical NLP Pipeline** *(Cancer Institute)* | `FastAPI` `DeepSeek` `Python` `Docker` | Reduced transcript medical structuring time from **1,000 manual hours to 8 automated hours (125x acceleration)** with strict patient privacy guardrails. |
+| **Enterprise Triage Agent** *(IBM)* | `Python` `FastAPI` `AWS Bedrock` `MCP` | Autonomous incident management agent integrating multi-model inference and vector databases, saving **$45,000/year** in support operations. |
+| **[Aula Digital Rural](https://github.com/Gemu03)** | `Raspberry Pi` `Linux` `IoT` | Offline digital education hub deployed on low-power single-board computers for rural communities. |
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="gcp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+### 📊 GitHub Activity & Metrics
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gemu03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemu03&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gemu03&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="40%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemu03&theme=algolia&hide_border=true&layout=compact&langs_count=8" width="33%" alt="Top languages" />
-</div>
-
-###
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://giovanni-moreno.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/gemu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/GiovanniMorenoU" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/28271659/giovanni-moreno" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
-  </a>
-  <a href="https://leetcode.com/u/Gio003/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
-  </a>
-  <a href="mailto:ingestebanmu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gemu03/Gemu03/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <i>Open to technical discussions regarding Cloud Architecture, Serverless Systems, and Production LLM Infrastructure.</i><br/>
+  <b><a href="https://giovanni-moreno.com">Visit my Portfolio</a></b> · <b><a href="https://linkedin.com/in/giovanni--moreno">Connect on LinkedIn</a></b>
+</p>
